@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592313619016",
+    "firebase_url": "https://projeto-atualize.firebaseio.com",
+    "project_id": "projeto-atualize",
+    "storage_bucket": "projeto-atualize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592313619016:android:6842bc1e1f93d06a",
+        "android_client_info": {
+          "package_name": "com.tcc.rubira.tcc_projeto1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592313619016-jfmffqc4a94vrio7cl7bikef2eavsjkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcc.rubira.tcc_projeto1",
+            "certificate_hash": "f713d92c83611b8107e881fd1edbc8c05adf5fc2"
+          }
+        },
+        {
+          "client_id": "592313619016-56i7a91h5qf99q8h5b0e00prbot3jt70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1Pi1CnzYc23TR7whbBFdk7X_amHeue0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592313619016-56i7a91h5qf99q8h5b0e00prbot3jt70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
