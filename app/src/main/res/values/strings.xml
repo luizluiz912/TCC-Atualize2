@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TCC-Projeto1</string>
+    <string name="title_activity_start">startActivity</string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="title_activity_castr">castrActivity</string>
+    <string name="sobre">Sobre</string>
+    <string name="Sair">Sair</string>
+</resources>
